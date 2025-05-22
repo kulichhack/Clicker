@@ -1,4 +1,6 @@
 function klick() {
-let schet = Number(document.getElement.ById("schet").innerHTML) 
-schet ++
+  let schet = document.getElementById("schet")
+  let count = schet.innerHTML
+  count++
+  schet.innerHTML = count
 }
