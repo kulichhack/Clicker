@@ -8,3 +8,9 @@
   background-color: red;
   color: rgb(19, 66, 142);
 }
+
+.schet {
+  display: inline-block;
+  position: absolute;
+  top: 300px;
+}
