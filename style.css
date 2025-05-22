@@ -3,6 +3,8 @@
   top: 100px;
   left: 100px;
   border-radius: 25px;
+  height: 100px;
+  width: 100px;
   background-color: red;
   color: rgb(19, 66, 142);
 }
