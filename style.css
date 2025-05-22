@@ -1,0 +1,8 @@
+#knopka {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  border-radius: 25px;
+  background-color: "Red";
+  color: "Blue"
+}
